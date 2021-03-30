@@ -40,10 +40,10 @@ public class Tugas3_4 {
                 max = list[i];
             }
         }
-        System.out.println("Min :"+min);
-        System.out.println("Max :"+max);
+        System.out.println("Nilai Minimumnya Adalah :"+min);
+        System.out.println("Nilai Maximumnya Adalah :"+max);
         avg = avg/list.length;
-        System.out.println("avg :"+avg);
+        System.out.println("Nilai Rata-Ratanya Adalah :"+avg);
     }
     
 }
