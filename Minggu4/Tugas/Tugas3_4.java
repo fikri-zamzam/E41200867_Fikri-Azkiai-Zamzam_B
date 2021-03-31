@@ -26,7 +26,8 @@ public class Tugas3_4 {
         System.out.print("Masukkan Jumlah data :");
         ank = scan.nextInt();
         int [] list = new int[ank];
-        int min=list[0],max=list[0],avg=0;
+        int min=list[0],max=list[0];
+        float avg =0;
         boolean t = false;
         
         for (int i = 0; i < ank; i++) {
